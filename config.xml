@@ -8,11 +8,12 @@
         Apache Cordova Team
     </author>
 
+    <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.8.0" />
+
     <gap:plugin name="com.phonegap.plugins.facebookconnect" version="<0.8.0>">
         <param name="APP_ID" value="<843840665671498>" />
-        <param name="APP_NAME" value="< Myspotz-Test1>" />
+        <param name="APP_NAME" value="<Test1>" />
     </gap:plugin>
-
 
 
 
